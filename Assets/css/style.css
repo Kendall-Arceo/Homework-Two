@@ -9,3 +9,7 @@ img {
   .footer {
     flex-shrink: 0;
 }
+
+.card {
+  min-height: 200px;
+}
